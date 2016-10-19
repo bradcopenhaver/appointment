@@ -10,5 +10,7 @@ $(document).ready(function() {
     $("#date1").text(date);
     $("#start1").text(start);
     $("#end1").text(end);
+
+    $(".output").show();
   });
 });

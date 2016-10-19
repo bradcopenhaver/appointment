@@ -1,0 +1,7 @@
+.output {
+  display: none;
+}
+.output p {
+  margin: 20px;
+  font-size: 20pt;
+}
